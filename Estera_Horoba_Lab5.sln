@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estera_Horoba_Lab5", "Estera_Horoba_Lab5\Estera_Horoba_Lab5.csproj", "{DB0A46B6-6B41-4BA6-863F-C08EF942534A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0A46B6-6B41-4BA6-863F-C08EF942534A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0A46B6-6B41-4BA6-863F-C08EF942534A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0A46B6-6B41-4BA6-863F-C08EF942534A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0A46B6-6B41-4BA6-863F-C08EF942534A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2566F5C-A4C6-44A8-9E8F-1D08A53529B8}
+	EndGlobalSection
+EndGlobal
